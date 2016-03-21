@@ -1,0 +1,11 @@
+Source: lsf-drmaa
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Maintainer: Matthew Callaway <mcallawa@genome.wustl.edu>
+Standards-Version: 3.8.3
+Homepage: https://github.com/PlatformLSF/lsf-drmaa
+
+Package: lsf-drmaa
+Architecture: amd64
+Description: lib-drmaa bindings for LSF
+ This is a package containing lib-drmaa bindings for LSF

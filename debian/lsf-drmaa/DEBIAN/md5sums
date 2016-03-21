@@ -1,0 +1,6 @@
+e24d692cc694592ccd268d84b948253e  usr/include/drmaa.h
+2f618c6c2ca3757cf8d5250077551ab3  usr/share/doc/lsf-drmaa/copyright
+aa172cd9efaf8601ca0c2aefdd8ae7e3  usr/share/doc/lsf-drmaa/changelog.Debian.gz
+9fc27502ab10d94d8a4d3a5c0dd1f76f  usr/lib/libdrmaa.la
+bb80bf52f29b5b73b7f487c3b6ce9076  usr/lib/libdrmaa.so.0.1.1
+7bcc705f21cfe1df6650b1b6d962070d  usr/lib/libdrmaa.a

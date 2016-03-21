@@ -1,0 +1,9 @@
+Package: lsf-drmaa
+Version: 1.1.1-1
+Architecture: amd64
+Maintainer: Matthew Callaway <mcallawa@genome.wustl.edu>
+Installed-Size: 596
+Priority: optional
+Homepage: https://github.com/PlatformLSF/lsf-drmaa
+Description: lib-drmaa bindings for LSF
+ This is a package containing lib-drmaa bindings for LSF
